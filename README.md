@@ -12,8 +12,8 @@ Currently working on a restaurant site created with a turbo 360 tutorial: https:
 - ⚡ Fun fact: I was a flight attendant.
 
 
-Comfort zone stacks: React, React Routing, Node.js, Express.js, HTML, CSS, Bootstrap, SQL, PHP, Heroku, Firebase, Storybook
-Currently learning: Python, JupyterNotes 
+- Comfort zone stacks: React, React Routing, Node.js, Express.js, HTML, CSS, Bootstrap, SQL, PHP, Heroku, Firebase, Storybook
+- Currently learning: Python, JupyterNotes 
 
 <!--
 **odgerey/odgerey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
