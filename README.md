@@ -1,8 +1,10 @@
 ### Hi there 👋
-Working on building a tight portfolio. 
-Currently working on a restaurant site created with a turbo 360 tutorial: https://resto-ugsdbb.turbo360-vertex.com/ 
+Working on building a tight portfolio for academic research.
+I'm a trained full-stack developer, but currently am taking a direction towaeds Data Sciences for academic research. 
+- Twarc & Hydrator
+- Happy WikiEditor & Programming Soon-To-Be-Historian. 
 
-
+Have worked on a restaurant site created with a turbo 360 tutorial: https://resto-ugsdbb.turbo360-vertex.com/ 
 - 🔭 I'm interested in data for academic research. Currently working with Hydrator and Twarc. 
 - 🌱 Sustainability junkie and history buff.  
 - 👯 I’m looking to collaborate on hackathons. 
