@@ -1,5 +1,5 @@
 ### Hi there 👋
-Current MA of Information student at U of T with an interest in studying ethics and methodology in humanities and social sciences. Am currently researching on biopolitics & social media. What should be in the modern academic toolkit and how can we do research better? Netnography is exciting, but maybe we need to learn how to do it ethically? I am interested in using new epistomlogical approaches and have a disdain for traditional essays. 
+Current MA of Information student at U of T studying ethics and methodology in humanities and social sciences. Am currently researching on biopolitics & social media. What should be in the modern academic toolkit and how can we do research better? Netnography is exciting, but maybe we need to learn how to do it ethically? I am interested in using new epistomlogical approaches and have a disdain for traditional essays. 
 
 I'm a trained full-stack developer and am in the process of learning data sciences. 
 - Happy WikiEditor  
