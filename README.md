@@ -1,8 +1,8 @@
 ### Hi there 👋
-Working on building a tight portfolio for academic research.
-I'm a trained full-stack developer, but currently am taking a direction towaeds Data Sciences for academic research. 
-- Twarc & Hydrator
-- Happy WikiEditor & Programming Soon-To-Be-Historian. 
+Current MA of Information student at U of T with an interest in studying ethics and methodology in humanities and social sciences. Am currently researching on biopolitics & social media. What should be in the modern academic toolkit and how can we do research better? Netnography is exciting, but maybe we need to learn how to do it ethically? I am interested in using new epistomlogical approaches and have a disdain for traditional essays. 
+
+I'm a trained full-stack developer and am in the process of learning data sciences. 
+- Happy WikiEditor  
 
 Have worked on a restaurant site created with a turbo 360 tutorial: https://resto-ugsdbb.turbo360-vertex.com/ 
 - 🔭 I'm interested in data for academic research. Currently working with Hydrator and Twarc. 
