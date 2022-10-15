@@ -3,15 +3,13 @@ Current MA of Information student at U of T with an interest in studying ethics 
 
 I'm a trained full-stack developer and am in the process of learning data sciences. 
 - Happy WikiEditor  
-
-Have worked on a restaurant site created with a turbo 360 tutorial: https://resto-ugsdbb.turbo360-vertex.com/ 
 - 🔭 I'm interested in data for academic research. Currently working with Hydrator and Twarc. 
 - 🌱 Sustainability junkie and history buff.  
-- 👯 I’m looking to collaborate on hackathons. 
-- 🤔 I’m curious and am interested in learning everything and anything. Currently dabbling in Python and JupyterNotes. 
+- 👯 I’m looking to collaborate on hackathons and other projects. 
+- 🤔 I’m curious and am interested in learning.
 - 💬 Ask me about my projects. I've navigated the template world, thus can code my way through Shopify and Wordpress. 
 - 📫 How to reach me: @odgerey on every platform.
-- ⚡ Fun fact: I was a flight attendant.
+- ⚡ Fun fact: I was a flight attendant and am now an expert multi-tasker! 
 
 
 - Comfort zone stacks: React, React Routing, Node.js, Express.js, HTML, CSS, Bootstrap, SQL, PHP, Heroku, Firebase, Storybook
