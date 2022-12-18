@@ -17,7 +17,7 @@ I'm a trained full-stack developer and am in the process of learning data scienc
 
 
 - Comfort zone stacks: React, React Routing, Node.js, Express.js, HTML, CSS, Bootstrap, SQL, PHP, Heroku, Firebase, Storybook
-- Currently learning: Python & R for data wrangling & analysis
+- Currently learning, but become quite comfortable in: Python & R for data wrangling & analysis
 
 <!--
 **odgerey/odgerey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
